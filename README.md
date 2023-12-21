@@ -1,1 +1,1 @@
-# StopWatch-html-css-JS
+A StopWatch built with HTML, CSS, and JS
